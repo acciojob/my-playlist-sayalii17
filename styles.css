@@ -1,8 +1,8 @@
 /*  your css code here. If applicable */
-h1, h2, h3{
+h1, h2{
 	text-align: center
 }
-html, body{
+body{
 	margin: 10px;
 	background-color: rgb(204, 204, 204);
 }
@@ -13,6 +13,11 @@ a{
 	text-decoration-line: none;
 }
 .player_one{
+	background-color: rgb(255, 255, 255); 
+	padding: 10px; 
+	border-radius: 9px; 
+}
+.player_two{
 	background-color: rgb(255, 255, 255); 
 	padding: 10px; 
 	border-radius: 9px; 
